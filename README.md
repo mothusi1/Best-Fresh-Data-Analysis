@@ -23,4 +23,4 @@ The pupose of this analysis is to understand how much Randall Dairy product Best
   3. Financial Analysis of Best Fresh grocery store in taking out a loan for Randall Dairy to expand their business relationship. 
 
 
-There is a PDF file with a further detail breakdown of the analysis and financial calculations. This project took full advantage of Excel
+There is a PDF file with a further detail breakdown of the analysis and financial calculations. This project took full advantage of Excel functionality in PowerQUERY, vlookup, pivot tables and much more. 
